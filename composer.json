@@ -1,0 +1,21 @@
+{
+    "name": "gmthslewazimuth/bowlingpinsnurd",
+    "description": "Bowling Pin Snurd description",
+    "type": "project",
+    "license": "GPL 2.0+",
+    "authors": [
+        {
+            "name": "Craig Bowman",
+            "email": "slewazimuth@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	    "php": ">=7.2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "HelloWorld\\": "src/"
+        }
+     }
+}
