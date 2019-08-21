@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "require": {
 	    "php": ">=7.1.13",
-	    "bowlingpinsnurd/helloworld":"~1.0.0"
+	    "bowlingpinsnurd/helloworld":"dev-master@dev"
     },
     "autoload": {
         "psr-4": {
