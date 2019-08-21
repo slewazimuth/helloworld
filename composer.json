@@ -9,7 +9,7 @@
             "email": "slewazimuth@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
 	    "php": ">=7.1.13",
 	    "bowlingpinsnurd/helloworld":"~1.0.0"
