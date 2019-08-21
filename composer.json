@@ -1,5 +1,5 @@
 {
-    "name": "gmthslewazimuth/helloworld",
+    "name": "gmthslewazimuth/bowlingpinsnurd",
     "description": "Bowling Pin Snurd description",
     "type": "project",
     "license": "GPL-2.0-or-later",
@@ -12,7 +12,7 @@
     "minimum-stability": "stable",
     "require": {
 	    "php": ">=7.1.13",
-	    "gmthslewazimuth/helloworld":"~1.0.0"
+	    "bowlingpinsnurd/helloworld":"~1.0.0"
     },
     "autoload": {
         "psr-4": {
